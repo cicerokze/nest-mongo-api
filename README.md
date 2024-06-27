@@ -4,16 +4,16 @@ Aplicação API desenvolvida com:
 - MongoDB
 - JWT
 
-## Description
+## Descrição
 Aplicação API desenvolvida como avaliação parcial em um processo seletivo profissional. Esta aplicação usa a seguinte pilha de tecnologias: NestJS, MongoDB and JWT.
 
-## Installation
+## Instalação
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Iniciando a aplicação
 
 Certifique-se de que você tem o MongoDB instalado na sua máquina.
 
@@ -28,7 +28,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Making requests
+## Requisições
 
 Quando a API estiver executando em modo de Desenvolvimento, use o Postman ou o Thunder client para fazer requisições e testar os seguintes endpoints:
 
@@ -77,4 +77,5 @@ Quando a API estiver executando em modo de Desenvolvimento, use o Postman ou o T
 ```
 
 - Remover um usuário
+
 **DELETE** http://localhost:3000/users/:id
