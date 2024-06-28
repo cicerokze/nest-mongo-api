@@ -2,10 +2,9 @@
 Aplicação API desenvolvida com:
 - NestJS
 - MongoDB
-- JWT
 
 ## Descrição
-Aplicação API desenvolvida como avaliação parcial em um processo seletivo profissional. Esta aplicação usa a seguinte pilha de tecnologias: NestJS, MongoDB and JWT.
+Aplicação API desenvolvida como avaliação parcial em um processo seletivo profissional. Esta aplicação usa a seguinte pilha de tecnologias: NestJS e MongoDB.
 
 ## Instalação
 
