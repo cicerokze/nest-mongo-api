@@ -1,9 +1,15 @@
-## nest-mongo-jwt
+## nest-mongo-api
+
 Aplicação API desenvolvida com:
 - NestJS
 - MongoDB
 
+<a href="https://www.buymeacoffee.com/cicerokze" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
+</a>
+
 ## Descrição
+
 Aplicação API desenvolvida como avaliação parcial em um processo seletivo profissional. Esta aplicação usa a seguinte pilha de tecnologias: NestJS e MongoDB.
 
 ## Instalação
